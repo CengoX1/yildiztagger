@@ -12,7 +12,7 @@
    "env": {
       "TOKEN": {
          "description": "Botunuzun tokenini bura yazın",
-         "value": ""
+         "value": "6056385749:AAGsncYNMoV2GPsKCI11YKHDetsHB5F2Zs4"
       },
       "APP_ID": {
          "description": "my.telegram.org adresindən APP ID alın.",
