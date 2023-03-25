@@ -440,7 +440,7 @@ async def stag(event):
         await event.respond("⛔ Üye Etiketleme işlemi durdu !  !  ! ",
                     buttons=(
                       [
-                       Button.url('📝  𝖪𝖺𝗇𝖺𝗅  📝', fhttps://t.me/vefamusicdestek1}')
+                       Button.url('📝  𝖪𝖺𝗇𝖺𝗅  📝', fhttps://t.me/{support}')
                       ]
                     )
                   )
