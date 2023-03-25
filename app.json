@@ -1,14 +1,14 @@
 {
-      "name": "VipTaggerBot",
-      "description": "VipTaggerBot",
+      "name": "vefa etiket",
+      "description": "vefaetiketbot",
       "keywords": [
          "telegram",
-         "tagger",
-         "group",
-         "VipTaggerBot",
-         "Kaybedenlerkulübü"
+         "etiket ",
+         "grup",
+         "Vefaetiketbot ",
+         "Sohbet vefa"
       ],   
-   "repository": "https://github.com/mertece9/etiket",
+   "repository": "https://github.com/",
    "env": {
       "TOKEN": {
          "description": "Botunuzun tokenini bura yazın",
@@ -16,39 +16,39 @@
       },
       "APP_ID": {
          "description": "my.telegram.org adresindən APP ID alın.",
-         "value": ""
+         "value": "22692275"
       },
       "API_HASH": {
          "description": "my.telegram.org adresindən API HASH alın",
-         "value": ""
+         "value": "745dd42941007c780d5bd2c5e37aed71"
       },    
       "LOG_QRUP": {
          "description": "log grubun id si",
-         "value": ""
+         "value": "-1001980878821"
       },
       "USERNAME": {
          "description": "Botun kullanıcı adı yazınız @ işareti olmadan",
-         "value": ""
+         "value": " Vefaetiketbot"
       },
       "sahib": {
          "description": "Kendi kullanıcı adınızı yazınız @ işareti olmadan",
-         "value": "tMertTt"
+         "value": "Cengonuzz"
       },      
       "support": {
          "description": "Bura support grubunuz yada kanalınızın kullanıcı adı @ işareti olmadan yazın",
-         "value": ""
+         "value": "Vefamusicdestek1"
       },
       "startmesaj": {
          "description": "Bota start verilince mesajınız",
-         "value": "\n\n• 𝖦𝗋𝗎𝖻𝗎𝗇𝗎𝗓𝖽𝖺𝗄𝗂 𝗇𝖾𝗋𝖽𝖾𝗒𝗌𝖾 𝗍𝗎𝗆 𝗎𝗒𝖾𝗅𝖾𝗋𝗂 𝖾𝗍𝗂𝗄𝖾𝗍𝗅𝖾𝗒𝖾𝖻𝗂𝗅𝗂𝗋𝗂𝗆 . . . • 𝖪𝗈𝗆𝗎𝗍𝗅𝖺𝗋 𝖻𝗎𝗍𝗈𝗇𝗎𝗇𝖺 𝗍𝗂𝗄𝗅𝖺𝗒𝗂𝗉 𝗍𝗎𝗆 𝗄𝗈𝗆𝗎𝗍𝗅𝖺𝗋𝗂 𝗈𝗀𝗋𝖾𝗇𝗂𝗇 . . ."
+         "value": "\n\n• Grubumuzda etiket yapmak için beni kullanabilirsin ! ! ! • Komutları öğrenmek için konutlar butonuna tıklayınız ! ! !"
       },
       "qrupstart": {
          "description": "Grupta start verildiği zaman mesajınız",
-         "value": "• 𝖲𝗎𝖺𝗇 𝖠𝗄𝗍𝗂𝖿 𝖢𝖺𝗅𝗂𝗌𝗆𝖺𝗄𝗍𝖺𝗒𝗂𝗆 . . .\n\n• 𝖪𝗈𝗆𝗎𝗍𝗅𝖺𝗋𝗂 𝖦𝗈𝗋𝗆𝖾𝗄 𝗂𝖼𝗂𝗇 𝖡𝗈𝗍𝗎𝗇 𝗂𝖼𝖾𝗋𝗂𝗌𝗂𝗇𝖾 𝗀𝗂𝗋𝗂𝗉 𝖻𝖺𝗌𝗅𝖺𝗍𝗂𝗇 . . ."
+         "value": "• Şuan aktifim ! ! !\n\n• Komutları öğrenmek için bota start yapınız ! ! !"
       },
       "komutlar": {
          "description": "Yardım menüsü",
-         "value": "🇹🇷 𝖳𝗎𝗆 𝖪𝗈𝗆𝗎𝗍𝗅𝖺𝗋 ;\n\n» /utag   <  𝗆𝖾𝗌𝖺𝗃  >\n   - 𝖴𝗒𝖾𝗅𝖾𝗋𝗂 5'𝗅𝗂 𝖾𝗍𝗂𝗄𝖾𝗍𝗅𝖾𝗋 .\n\n» /tag   <  𝗆𝖾𝗌𝖺𝗃  >\n   - 𝖴𝗒𝖾𝗅𝖾𝗋𝗂 𝗍𝖾𝗄 𝗍𝖾𝗄 𝖾𝗍𝗂𝗄𝖾𝗍𝗅𝖾𝗋 .\n\n» /atag   <  𝗆𝖾𝗌𝖺𝗃  >\n   - 𝖸𝗈𝗇𝖾𝗍𝗂𝖼𝗂𝗅𝖾𝗋𝗂 𝖾𝗍𝗂𝗄𝖾𝗍𝗅𝖾𝗋 .\n\n» /etag   <  𝗆𝖾𝗌𝖺𝗃  >\n   - 𝖴𝗒𝖾𝗅𝖾𝗋𝗂 𝖾𝗆𝗈𝗃𝗂𝗅𝖾𝗋𝗅𝖾 𝖾𝗍𝗂𝗄𝖾𝗍𝗅𝖾𝗋 .\n\n» /stag   <  𝗆𝖾𝗌𝖺𝗃  >\n   - 𝖴𝗒𝖾𝗅𝖾𝗋𝗂 𝗀𝗎𝗓𝖾𝗅 𝗌𝗈𝗓𝗅𝖾𝗋𝗅𝖾 𝖾𝗍𝗂𝗄𝖾𝗍𝗅𝖾𝗋 .\n\n» /cancel =>\n   - 𝖤𝗍𝗂𝗄𝖾𝗍𝗅𝖾𝗆𝖾 𝗂𝗌𝗅𝖾𝗆𝗂𝗇𝗂 𝖽𝗎𝗋𝖽𝗎𝗋𝗎𝗋 ."
+         "value": "🇹🇷 𝖳ü𝗆 𝖪𝗈𝗆𝗎𝗍𝗅𝖺𝗋 ;\n\n» /utag   <  𝗆𝖾𝗌𝖺𝗃  >\n   - 𝖴𝗒𝖾𝗅𝖾𝗋𝗂 5'𝗅𝗂 𝖾𝗍𝗂𝗄𝖾𝗍𝗅𝖾𝗋 .\n\n» /tag   <  𝗆𝖾𝗌𝖺𝗃  >\n   - 𝖴𝗒𝖾𝗅𝖾𝗋𝗂 𝗍𝖾𝗄 𝗍𝖾𝗄 𝖾𝗍𝗂𝗄𝖾𝗍𝗅𝖾𝗋 .\n\n» /atag   <  𝗆𝖾𝗌𝖺𝗃  >\n   - 𝖸𝗈𝗇𝖾𝗍𝗂𝖼𝗂𝗅𝖾𝗋𝗂 𝖾𝗍𝗂𝗄𝖾𝗍𝗅𝖾𝗋 .\n\n» /etag   <  𝗆𝖾𝗌𝖺𝗃  >\n   - 𝖴𝗒𝖾𝗅𝖾𝗋𝗂 𝖾𝗆𝗈𝗃𝗂𝗅𝖾𝗋𝗅𝖾 𝖾𝗍𝗂𝗄𝖾𝗍𝗅𝖾𝗋 .\n\n» /stag   <  𝗆𝖾𝗌𝖺𝗃  >\n   - 𝖴𝗒𝖾𝗅𝖾𝗋𝗂 𝗀𝗎𝗓𝖾𝗅 𝗌𝗈𝗓𝗅𝖾𝗋𝗅𝖾 𝖾𝗍𝗂𝗄𝖾𝗍𝗅𝖾𝗋 .\n\n» /cancel =>\n   - 𝖤𝗍𝗂𝗄𝖾𝗍𝗅𝖾𝗆𝖾 𝗂𝗌𝗅𝖾𝗆𝗂𝗇𝗂 𝖽𝗎𝗋𝖽𝗎𝗋𝗎𝗋 ."
       }
      
    }
