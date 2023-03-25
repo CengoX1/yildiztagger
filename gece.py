@@ -60,7 +60,7 @@ async def start(event):
                        Button.url('📚  𝖪𝗈𝗆𝗎𝗍𝗅𝖺𝗋  ', f'https://t.me/vefamusicdestek1'),
                        Button.url('👨‍💻  Sahip  ', f'https://t.me/Cengonuzz')],
                        [Button.url('📝  Kana𝗅  ', f'https://t.me/{support}')]
-                    ),. 
+                    ),
                     link_preview=False)
 
 
