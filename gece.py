@@ -61,7 +61,7 @@ async def start(event):
                        Button.url('👨‍💻  Sahip  ', f'https://t.me/Cengonuzz')],
                        [Button.url('📝  Kana𝗅  ', f'https://t.me/{support}')]
                     ),
-                    link_preview=False)
+                    link_preview=True)
 
 
   if event.is_group:
