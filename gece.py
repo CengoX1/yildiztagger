@@ -79,7 +79,7 @@ async def handler(event):
                        Button.url('👨‍💻  Sahip ', f'https://t.me/Cengonuzz')]
                        [Button.url('📝  Kanal  ', f'https://t.me/{support}')]
                     ),
-                    link_preview=False)
+                    link_preview=True)
 
 # Cengonuzz 
 @client.on(events.callbackquery.CallbackQuery(data="komutlar"))
@@ -93,7 +93,7 @@ async def handler(event):
                       Button.inline("<  𝖦𝖾𝗋𝗂  >", data="start"),
                       ]
                     ),
-                    link_preview=False)
+                    link_preview=True)
 
 # 5 li etiketleme modulü
 @client.on(events.NewMessage(pattern="^/utag ?(.*)"))
